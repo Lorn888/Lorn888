@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">A passionate front and backend developer from Poland</h3>
 
-- 🔭 I’m currently working on [Chat-P](https://github.com/Lorn888/Chat-P-GPT)
+- 🔭 I’m currently working on [Gym-social-media-app](https://github.com/Lorn888/Mern-Workout-app)
 
 - 👨‍💻 All of my projects are available at [soon…](soon…)
 
