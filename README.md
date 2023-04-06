@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Gym-social-media-app](https://github.com/Lorn888/Mern-Workout-app)
 
-- 👨‍💻 All of my projects are available at [soon…](soon…)
+- 👨‍💻 All of my projects are available at [soon…]
 
 - 📫 How to reach me **patrykokpara@hotmail.com**
 
