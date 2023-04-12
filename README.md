@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">A passionate front and backend developer from Poland</h3>
 
+
 - 🔭 I’m currently working on [Gym-social-media-app](https://github.com/Lorn888/Mern-Workout-app)
+- 
 
 - 👨‍💻 All of my projects are available at [soon…]
+- 
 
 - 📫 How to reach me **patrykokpara@hotmail.com**
+- 
 
 - 📄 Know about my experiences [https://github.com/Lorn888/CV](https://github.com/Lorn888/CV)
+- 
 
 <p align="left">
 </p>
